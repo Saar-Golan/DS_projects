@@ -37,6 +37,7 @@ SOFTWARE.
 --------------------------------------------
 
 <b> Citation instructions: </b>
+See attached CITATION.cff file
 
 --------------------------------------------
 
