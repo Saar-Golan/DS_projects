@@ -5,8 +5,13 @@ This folder contains examples of some of my past projects.
 * telecom_churn for github - predict telecom clients churn based on their provided data
 * Business_Analytics - analyze Yandex.Afisha client KPIs - SF, DAU, ROI...
 
+Enjoy 😊
 
-<b> Repository license - MIT class: </b>
+Saar
+
+--------------------------------------------------------
+
+<b> Repository license - please use the MIT class: </b>
 
 MIT License
 Copyright (c) [2022] [Saar Golan]
@@ -29,10 +34,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Citation instructions:
-Contribution guidelines
-Code of conduct
+--------------------------------------------
 
-Enjoy 😊
+<b> Citation instructions: </b>
 
-Saar
+--------------------------------------------
+
+<b> Contribution guidelines: </b>
+
+--------------------------------------------
+
+<b> Code of conduct: </b>
+
+
