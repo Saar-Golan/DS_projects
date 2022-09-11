@@ -40,10 +40,9 @@ SOFTWARE.
 
 --------------------------------------------
 
-<b> Contribution guidelines: </b>
-
---------------------------------------------
-
 <b> Code of conduct: </b>
 
+See the joint ACM/IEEE-CS Software Engineering Code @
+https://ethics.acm.org/code-of-ethics/software-engineering-code/
 
+(withholding any philosophical argument re the legitimacy of software engineering or data science as a valid profession)
