@@ -4,6 +4,8 @@ This folder contains examples of some of my past projects.
 
 * telecom_churn for github - predict telecom clients churn based on their provided data
 * Business_Analytics - analyze Yandex.Afisha client KPIs - SF, DAU, ROI...
+* 810F_saar - Plotly interactive calculation and visualization of the U.S. MIL-STD-810 acoustic requirements for avionic/space equipment
+  (if required, please contact me for the source code)
 
 Enjoy 😊
 
