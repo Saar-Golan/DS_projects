@@ -6,6 +6,8 @@ This folder contains examples of some of my past projects.
 * Business_Analytics - analyze Yandex.Afisha client KPIs - SF, DAU, ROI...
 * 810F_saar - Plotly interactive calculation and visualization of the U.S. MIL-STD-810 acoustic requirements for avionic/space equipment
   (if required, please contact me for the source code)
+* CV_for_github - explore whether computer vision can help adhere to alcohol laws by making sure clients do not sell alcohol to people 
+  underage
 
 Enjoy 😊
 
