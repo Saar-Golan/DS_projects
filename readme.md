@@ -8,6 +8,7 @@ This folder contains examples of some of my past projects.
   (if required, please contact me for the source code)
 * CV_for_github - explore whether computer vision can help adhere to alcohol laws by making sure clients do not sell alcohol to people 
   underage
+* NLP_for_github.ipynb - NLP model to automatically detect negative movie reviews (NLTK, SPACY, BERT)
 
 Enjoy 😊
 
