@@ -6,6 +6,7 @@ This folder contains examples of some of my past projects.
 * Business_Analytics - analyze Yandex.Afisha client KPIs - SF, DAU, ROI...
 * 810F_saar - Plotly interactive calculation and visualization of the U.S. MIL-STD-810 acoustic requirements for avionic/space equipment
   (if required, please contact me for the source code)
+* timeseries_for_github.ipynb - predict the amount of taxi orders at airports for the next hour so the customer is not lacking available drivers.  
 * CV_for_github - explore whether computer vision can help adhere to alcohol laws by making sure clients do not sell alcohol to people 
   underage
 * NLP_for_github.ipynb - NLP model to automatically detect negative movie reviews (NLTK, SPACY, BERT)
